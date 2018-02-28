@@ -1,0 +1,3 @@
+lst = [int(i) for i in input('Ввод через пробел: ').split()]
+newlst = [num for num in range(1,max(lst)) if lst.count(num) == 0]
+print(newlst)
