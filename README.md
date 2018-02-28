@@ -1,1 +1,1 @@
-Operating Sistem
+Operating System
